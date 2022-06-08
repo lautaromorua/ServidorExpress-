@@ -1,0 +1,1 @@
+[{"nombre":"Tijera","precio":"80","thumbnail":"tijera","id":1},{"nombre":"Lapiz","precio":"25","thumbnail":"lapiz","id":2},{"nombre":"Escuadra","precio":"30.50","thumbnail":"escuadra","id":3},{"nombre":"Fibron","precio":"40","thumbnail":"fibron","id":4}]
